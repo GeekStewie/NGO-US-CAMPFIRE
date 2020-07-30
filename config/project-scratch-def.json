@@ -3,7 +3,6 @@
   "adminEmail": "stewart.anderson+uscampfire@salesforce.com",
   "description": "SFDO Campfire",
   "template": "0TT4K000001GfU9",
-  "edition": "Enterprise",
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
